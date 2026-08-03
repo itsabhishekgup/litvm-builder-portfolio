@@ -1,0 +1,33 @@
+# Calculator Smart Contract
+
+## Network
+LitVM LiteForge Testnet
+
+## Description
+A simple Solidity calculator contract that performs basic arithmetic operations.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Functions
+
+### add(uint256 a, uint256 b)
+Returns the sum of two numbers.
+
+### subtract(uint256 a, uint256 b)
+Returns the difference between two numbers.
+
+### multiply(uint256 a, uint256 b)
+Returns the product of two numbers.
+
+### divide(uint256 a, uint256 b)
+Returns the quotient of two numbers. Reverts if the divisor is zero.
+
+## Solidity Version
+0.8.20+
+
+## Status
+✅ Successfully tested on LitVM LiteForge Testnet.
