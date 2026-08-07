@@ -1,0 +1,17 @@
+Deployment Date:
+07 Aug 2026
+
+Network:
+LitVM LiteForge Testnet
+
+Contract Address:
+0xb19b3F4892348F0CC6A1049f4e43d1F3993cc95C
+
+Transaction Hash:
+0x1562d4ab7b525a555b474a99229192278c91f4d45cd93214df459d9069a47a3e
+
+Explorer:
+https://liteforge.explorer.caldera.xyz/tx/0x1562d4ab7b525a555b474a99229192278c91f4d45cd93214df459d9069a47a3e
+
+Status:
+Success
