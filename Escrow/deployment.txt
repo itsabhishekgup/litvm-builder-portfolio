@@ -1,0 +1,26 @@
+Project: Escrow Smart Contract
+
+Network: LitVM LiteForge Testnet
+
+Deployment Date: 13 Aug 2026
+
+Contract Address:
+```0x9c417ce6dADcb64eaC070F7655e5752459EcBd3f```
+
+Deployment Transaction Hash:
+```0xb04147d3fb2dace5d4e1e5286f369cf2480141ba64b85c7d6c530e47d3fb9b48```
+
+Explorer:
+https://liteforge.explorer.caldera.xyz/tx/0xb04147d3fb2dace5d4e1e5286f369cf2480141ba64b85c7d6c530e47d3fb9b48
+
+Test Deposit:
+0.003 ETH
+
+Deposit Transaction Hash:
+```0x0f1f609d0b37786684377d3ba163b75d316edd12af3a957f4595c528cb090cb0```
+
+Release Transaction Hash:
+```0x7a77d68cd67f2c36ac94c55fa7bd07aa8eb2bac2a13f2adf1fd0ae2a6e2efe32```
+
+Status:
+SUCCESS
