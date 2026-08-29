@@ -1,0 +1,41 @@
+Project: MultiSig Wallet
+
+Network: LitVM LiteForge Testnet
+
+Deployment Date:
+29 Aug 2026
+
+Contract Address:
+0x4e18bBb3c5152a86e9192960E6708E562b780246
+
+Deployment Transaction Hash:
+0xeb87d903df36a549c6c57fa77859b3c5fed50cd82e4f7ddc279ed6737a2ef2ef
+
+Explorer:
+https://liteforge.explorer.caldera.xyz/
+
+Funding:
+0.001 ETH
+
+Funding Transaction Hash:
+0xc8ac1839914f852f7bc84252d4d02d5ad6bf539c649188e733e69034c326a29a
+
+Test Transaction:
+Transaction Index: 0
+Recipient: Owner 2
+Amount: 0.0001 ETH
+
+Submit Transaction Hash:
+0xad65189b77a77a7b43bb1f1b818027218fe32202fcbba6df526f58db70a116ee
+
+Owner 1 Approval Hash:
+0xfdabfa1ca85c57ed34add94d1ecc7b7e8602def30f246e2eabe0df350916c4af
+
+Owner 2 Approval Hash:
+0xe27d3de2ddfafadf55762daeca12ccc604d99525ab4e37386aafc9075133216e
+
+Execution Transaction Hash:
+0x9ba99dbcc491ef0afa5f822ff31f9867b2fa08aa0a76c52bf62f557ce81b6d05
+
+Status:
+SUCCESS
