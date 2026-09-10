@@ -1,0 +1,82 @@
+Crowdfunding Smart Contract
+============================
+
+Network:
+LitVM LiteForge Testnet
+
+Chain ID:
+4441
+
+Native Gas Token:
+zkLTC
+
+Contract Name:
+Crowdfunding
+
+Deployment Date:
+10 September 2026
+
+Deployment Contract Address:
+0xf456325d62fb39f84d2c1d576f67183246cd0a5c
+
+Deployment Transaction Hash:
+0x3f26ebafacffbbdc6154ded3f6bfc9787c712dfdcb28812e8d7129e632d9a486
+
+Explorer:
+https://liteforge.explorer.caldera.xyz/
+
+
+Successful Campaign Test
+========================
+
+Funding Goal:
+0.001 native token
+
+Contribution 1:
+0.0005 native token
+
+Contribution 1 Transaction:
+0xd8d38aee99be1e3573416913613b2d9725b76b12055e3d3e250edab60dbb5403
+
+Contribution 2:
+0.0005 native token
+
+Contribution 2 Transaction:
+0x4c90be9a48ebb60005fd7fa5613a3391106799e571b14db9804ef66548992d2c
+
+Total Raised:
+0.001 native token
+
+Withdrawal Transaction:
+0x4fe6b1b725257f3c8111e47905c587deb7c2ba32c94cd853c326bc73ef992fb8
+
+Status:
+SUCCESS
+
+
+Failed Campaign / Refund Test
+=============================
+
+Funding Goal:
+0.002 native token
+
+Contribution:
+0.0005 native token
+
+Contribution Transaction:
+0x5154a708d3bbf186e49b0317cf8c7652d0b771838c17d87cd37a894be2284793
+
+Refund Transaction:
+0x84a9c55302f71297b5b790f7c3fc206b15228caf9c4a3d63cace17527a80ae86
+
+Status:
+SUCCESS
+
+
+Notes
+=====
+
+Successfully tested both major campaign outcomes:
+
+1. Funding goal reached → owner withdrawal
+2. Funding goal not reached → contributor refund
